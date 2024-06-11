@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ece4fc;
+  }
+  h1{
+    text-align: center;
+    font-size: 35px;
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 40px;
+  }
+  
+  .projetinho {
+    background-color: rgb(199, 151, 238);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+  }
+  
+  .projetinho a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+  }
+  
+  .projetinho a:hover {
+    color: #000000;
+  }
+  footer {
+    background-color: rgb(54, 20, 82);
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 15px;
+  }
+  
